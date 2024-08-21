@@ -2,7 +2,7 @@
 
 I'm a **physician from Colombia** with a deep passion for **web development**. I’m currently diving into technologies like **React, JavaScript, HTML, CSS**, and expanding my skillset with **Python** through a scholarship program. When I’m not coding, you'll find me **working out at the gym** or creating innovative projects that bridge the gap between technology and healthcare.
 
-![Mario Ortega's Stats](https://github-readme-stats.vercel.app/api?username=marioortega&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mario Ortega's Stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
