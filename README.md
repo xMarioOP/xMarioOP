@@ -22,7 +22,7 @@ I'm a **physician from Colombia** with a deep passion for **web development**. I
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-alejandro-ortega-palma-7451702b3)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-op/)
 - Stay tuned for more updates on my web projects!
 
 Thanks for visiting my profile! Let's connect and explore the fascinating world of technology and healthcare together. 🚀
