@@ -6,23 +6,30 @@ I'm a **physician from Colombia** with a deep passion for **web development**. I
 
 ## 🚀 About Me
 
-- 🔭 I'm a physician from Colombia with a passion for technology, currently exploring the world of web development.
-- 📚 I’m currently studying **React, JavaScript, HTML, CSS**, and learning **Python** through a scholarship program.
-- 💻 I enjoy combining my medical expertise with my growing knowledge of programming to create innovative solutions.
+- 🔭 I'm a physician from Colombia with a passion for technology, actively engaged in the world of web development.
+- 📚 I have expertise in **React, JavaScript, HTML, CSS**, and **Python**, which I utilize to build innovative solutions.
+- 💻 I enjoy merging my medical background with programming to develop applications that can enhance patient care.
+- 🌍 I believe technology can bridge gaps in healthcare, and I'm excited to contribute to that future!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,ts)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- Diving deeper into **React** for dynamic front-end experiences.
-- Enhancing **DOM manipulation** skills to create more interactive UIs.
-- Experimenting with **APIs** and data fetching to integrate external data into projects.
+- Advancing my skills in **React** to create dynamic and responsive front-end applications.
+- Mastering **DOM manipulation** techniques to enhance user interaction and create engaging user interfaces.
+- Integrating external data into projects by working with various **APIs** and exploring data fetching strategies.
 
+## 🤝 Soft Skills
+
+- Strong communication skills, enabling effective collaboration with multidisciplinary teams.
+- Problem-solving mindset with a focus on innovative solutions.
+- Adaptability and eagerness to learn in fast-paced environments.
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-op/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mario-op/).
+- Feel free to reach out via email: [marioalejandro424@outlook.com](mailto:marioalejandro424@outlook.com)
 - Stay tuned for more updates on my web projects!
 
 Thanks for visiting my profile! Let's connect and explore the fascinating world of technology and healthcare together. 🚀
