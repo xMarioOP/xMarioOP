@@ -1,6 +1,6 @@
 # Hi, I'm Mario Ortega! 👋
 
-I'm a **physician from Colombia** with a deep passion for **web development**. I’m currently diving into technologies like **React, JavaScript, HTML, CSS**, and expanding my skillset with **Python** through a scholarship program. When I’m not coding, you'll find me **working out at the gym** or creating innovative projects that bridge the gap between technology and healthcare.
+I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
 
 ![Mario Ortega's Stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -12,7 +12,7 @@ I'm a **physician from Colombia** with a deep passion for **web development**. I
 - 🌍 I believe technology can bridge gaps in healthcare, and I'm excited to contribute to that future!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,python,ts)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
