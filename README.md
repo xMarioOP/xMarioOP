@@ -12,7 +12,7 @@ I'm a **physician from Colombia** with a strong passion for **web development**,
 - 🌍 I believe technology can bridge gaps in healthcare, and I'm excited to contribute to that future!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,python,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,python,ts,sass)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
