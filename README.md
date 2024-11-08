@@ -18,9 +18,9 @@ I'm a **physician from Colombia** with a strong passion for **web development**,
 
 ## 🌱 Currently Exploring
 
-- Advancing my skills in **React** to create dynamic and responsive front-end applications.
-- Mastering **DOM manipulation** techniques to enhance user interaction and create engaging user interfaces.
-- Integrating external data into projects by working with various **APIs** and exploring data fetching strategies.
+- Advanced React: Diving deeper into state management, hooks, and building modular, scalable front-end applications.
+- API Integration: Exploring external APIs to bring data-driven interactivity to my projects.
+- DOM Manipulation: Enhancing user interfaces by mastering interactive DOM elements.
 
 ## 🤝 Soft Skills
 
