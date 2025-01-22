@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  <h1 style="display: inline;"> Hi, I'm Mario Ortega</h1>
+  <p> Hi, I'm Mario Ortega</p>
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
 
