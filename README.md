@@ -7,7 +7,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=lightgray" alt="watching_count" />
 </p>
+
 I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
+
 <br>
 <br>
 
