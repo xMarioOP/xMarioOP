@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:53px; color: #FFFFFF; font-family: Georgia;">Hi, I'm Mario Ortega! 👋</span>
+  <span style="font-size:33px; color: #FFFFFF; font-family: Georgia; font-weight: 800;">Hi, I'm Mario Ortega! 👋</span>
 </p>
 
 <p align="center">
