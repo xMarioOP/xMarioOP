@@ -2,6 +2,8 @@
   <span style="font-size:33px; color: #FFFFFF; font-family: Georgia; font-weight: 800;">Hi, I'm Mario Ortega! 👋</span>
 </p>
 
+<hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px;">
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
@@ -11,9 +13,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
 </p>
-
-<hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px;">
-
 
 I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
 
