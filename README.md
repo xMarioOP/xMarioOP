@@ -1,6 +1,7 @@
 <p align="center">
   <span style="font-size:33px; color: #FFFFFF; font-family: Georgia; font-weight: 800;">Hi, I'm Mario Ortega! 👋</span>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
@@ -11,7 +12,8 @@
   </a>
 </p>
 
-<hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px;">
+<hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px; text-align: center;">
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
