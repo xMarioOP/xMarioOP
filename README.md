@@ -1,11 +1,8 @@
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  <div style="margin-left: 20px; text-align: left;">
-    <h1 style="color: #FFFFFF; font-family: Georgia; font-weight: 800;">Hi, I'm Mario Ortega</h1>
-    <h2 style="color: #FFFFFF; font-family: Georgia; font-weight: 800;">Frontend Developer</h2>
-  </div>
+  <h1 style="display: inline;"> Hi, I'm Mario Ortega</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
-
 
 <hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px; text-align: center;">
 
