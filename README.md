@@ -3,7 +3,7 @@
   <br>
 
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 
 ## Hi, I'm Mario Ortega! 👋
 <p align="left"> 
