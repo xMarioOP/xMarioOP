@@ -1,8 +1,14 @@
-# Hi, I'm Mario Ortega! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Mario+Ortega+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
+</p>
+
+<!-- badge -->
 
 I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
 
-![Mario Ortega's Stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![xMarioOP's github stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&show_icons=true&theme=tokyonight)
 ![xMarioOP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMarioOP&theme=tokyonight&layout=compact)
 
