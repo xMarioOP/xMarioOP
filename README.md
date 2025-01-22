@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
   <br>
 
 </p>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 
 ## Hi, I'm Mario Ortega! 👋
 <p align="left"> 
