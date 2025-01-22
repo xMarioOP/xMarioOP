@@ -1,15 +1,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
-  <br>
-
 </p>
 
 ## Hi, I'm Mario Ortega! 👋
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=lightgray" alt="watching_count" />
 </p>
 I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
+<br>
+<br>
 
 ![xMarioOP's github stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&show_icons=true&theme=tokyonight)
 ![xMarioOP's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMarioOP&theme=tokyonight&layout=compact)
@@ -57,6 +57,7 @@ Thanks for visiting my profile! Let's connect and explore the fascinating world 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 <p align="center">
+  <br>
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/mario-op/">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
