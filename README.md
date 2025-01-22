@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
 
-<hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px; text-align: center;">
-
 ## Hi, I'm Mario Ortega! 👋
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
