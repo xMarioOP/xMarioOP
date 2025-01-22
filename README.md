@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
@@ -6,12 +6,10 @@
 
 <hr style="border: 1px solid #FFFFFF; width: 100%; margin-top: 20px; text-align: center;">
 
-
+## Hi, I'm Mario Ortega! 👋
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=xMarioOP&color=brightgreen" alt="watching_count" />
 </p>
-
-## Hi, I'm Mario Ortega! 👋
 I'm a **physician from Colombia** with a strong passion for **web development**, specializing in **React**. I have a solid foundation in **JavaScript, HTML, CSS**, and **Python**. When I’m not coding, you can find me **working out at the gym** or developing innovative projects that bridge the gap between technology and healthcare.
 
 ![xMarioOP's github stats](https://github-readme-stats.vercel.app/api?username=xMarioOP&show_icons=true&theme=tokyonight)
