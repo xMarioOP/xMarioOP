@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  <span style="font-size:33px; color: #FFFFFF; font-family: Georgia; font-weight: 800;"> ##Hi, I'm Mario Ortega</span>
+  <span style="font-size:33rem; color: #FFFFFF; font-family: Georgia; font-weight: 800;"> Hi, I'm Mario Ortega</span>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FFFFFF&width=370&height=100&lines=Frontend+Developer" alt="Typing SVG" />
 </p>
